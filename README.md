@@ -1,8 +1,9 @@
 # Real-Time Character Counter 
 
-
-
 A sleek and responsive web application that provides real-time character counting for text input. Built with vanilla HTML, CSS, and JavaScript, featuring a typewriter effect, auto-resizing textarea, and a beautiful pink-themed UI.
+
+<img width="481" height="299" alt="image" src="https://github.com/user-attachments/assets/f87c5d50-6783-40f9-80cf-1c03379e65d4" />
+
 
 ## 🌟 Features
 
