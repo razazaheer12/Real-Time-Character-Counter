@@ -17,7 +17,7 @@ A sleek and responsive web application that provides real-time character countin
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Real-Time Character Counter](https://real-time-character-counter-12.netlify.app/) (Enable GitHub Pages in your repository settings if not already active).
+Check out the live demo: [Real-Time Character Counter](https://real-time-character-counter-12.netlify.app/) 
 
 ## 📦 Installation
 
