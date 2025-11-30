@@ -1,7 +1,6 @@
-# Real-Time Character Counter
+# Real-Time Character Counter 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/razazaheer12/Real-Time-Character-Counter?style=social)](https://github.com/razazaheer12/Real-Time-Character-Counter)
+
 
 A sleek and responsive web application that provides real-time character counting for text input. Built with vanilla HTML, CSS, and JavaScript, featuring a typewriter effect, auto-resizing textarea, and a beautiful pink-themed UI.
 
@@ -68,5 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to open an issue on GitHub.
 
 ---
-
-Made with ❤️ by [razazaheer12](https://github.com/razazaheer12)
+Developed by [razazaheer12](https://github.com/razazaheer12)
