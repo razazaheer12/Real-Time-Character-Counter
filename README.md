@@ -15,9 +15,9 @@ A sleek and responsive web application that provides real-time character countin
 - **Smooth Animations**: Fade-in effects and transitions for enhanced UX.
 - **Google Fonts Integration**: Uses 'Patrick Hand' and 'Quicksand' for a unique look.
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-Check out the live demo: [Real-Time Character Counter](https://razazaheer12.github.io/Real-Time-Character-Counter) (Enable GitHub Pages in your repository settings if not already active).
+Check out the live demo: [Real-Time Character Counter](https://real-time-character-counter-12.netlify.app/) (Enable GitHub Pages in your repository settings if not already active).
 
 ## 📦 Installation
 
